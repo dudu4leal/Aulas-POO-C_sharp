@@ -1,0 +1,14 @@
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\aula2.AssemblyInfoInputs.cache
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\aula2.AssemblyInfo.cs
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\dudsl\Desktop\aulaC#\aula2\bin\Debug\net9.0\aula2.exe
+C:\Users\dudsl\Desktop\aulaC#\aula2\bin\Debug\net9.0\aula2.deps.json
+C:\Users\dudsl\Desktop\aulaC#\aula2\bin\Debug\net9.0\aula2.runtimeconfig.json
+C:\Users\dudsl\Desktop\aulaC#\aula2\bin\Debug\net9.0\aula2.dll
+C:\Users\dudsl\Desktop\aulaC#\aula2\bin\Debug\net9.0\aula2.pdb
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\aula2.dll
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\refint\aula2.dll
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\aula2.pdb
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\aula2.genruntimeconfig.cache
+C:\Users\dudsl\Desktop\aulaC#\aula2\obj\Debug\net9.0\ref\aula2.dll
