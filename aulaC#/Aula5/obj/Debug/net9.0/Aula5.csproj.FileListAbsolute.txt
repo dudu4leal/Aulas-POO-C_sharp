@@ -1,0 +1,30 @@
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\Aula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\Aula5.AssemblyInfoInputs.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\Aula5.AssemblyInfo.cs
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\Aula5.csproj.CoreCompileInputs.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\Aula5.sourcelink.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\bin\Debug\net9.0\Aula5.exe
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\bin\Debug\net9.0\Aula5.deps.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\bin\Debug\net9.0\Aula5.runtimeconfig.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\bin\Debug\net9.0\Aula5.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\bin\Debug\net9.0\Aula5.pdb
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\Aula5.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\refint\Aula5.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\Aula5.pdb
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\Aula5.genruntimeconfig.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula5\obj\Debug\net9.0\ref\Aula5.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\Aula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\Aula5.AssemblyInfoInputs.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\Aula5.AssemblyInfo.cs
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\Aula5.csproj.CoreCompileInputs.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\Aula5.sourcelink.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\Aula5.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\refint\Aula5.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\Aula5.pdb
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\bin\Debug\net9.0\Aula5.exe
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\bin\Debug\net9.0\Aula5.deps.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\bin\Debug\net9.0\Aula5.runtimeconfig.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\bin\Debug\net9.0\Aula5.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\bin\Debug\net9.0\Aula5.pdb
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\Aula5.genruntimeconfig.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Aula 5\obj\Debug\net9.0\ref\Aula5.dll
