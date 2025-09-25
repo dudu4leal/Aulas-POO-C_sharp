@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ECommerce",
+    "\\ECommerce\\Application",
+    "\\ECommerce\\Application\\Services",
+    "\\ECommerce\\Domain",
+    "\\ECommerce\\Domain\\Helpers",
+    "\\ECommerce\\Infrastructure",
+    "\\ECommerce\\Infrastructure\\Data",
+    "\\ECommerce\\Presentation"
+  ],
+  "SelectedNode": "\\ECommerce\\Application\\Services\\ClienteService.cs",
+  "PreviewInSolutionExplorer": false
+}

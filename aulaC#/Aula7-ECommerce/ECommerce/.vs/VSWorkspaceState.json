@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application\\Services",
+    "\\Domain\\Entities",
+    "\\Domain\\Helpers",
+    "\\Infrastructure\\Data"
+  ],
+  "SelectedNode": "\\Application",
+  "PreviewInSolutionExplorer": false
+}
