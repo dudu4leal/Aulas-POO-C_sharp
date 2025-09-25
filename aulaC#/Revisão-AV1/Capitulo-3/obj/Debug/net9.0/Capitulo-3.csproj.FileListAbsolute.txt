@@ -1,0 +1,15 @@
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\Capitulo-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\Capitulo-3.AssemblyInfoInputs.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\Capitulo-3.AssemblyInfo.cs
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\Capitulo-3.csproj.CoreCompileInputs.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\Capitulo-3.sourcelink.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\bin\Debug\net9.0\Capitulo-3.exe
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\bin\Debug\net9.0\Capitulo-3.deps.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\bin\Debug\net9.0\Capitulo-3.runtimeconfig.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\bin\Debug\net9.0\Capitulo-3.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\bin\Debug\net9.0\Capitulo-3.pdb
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\Capitulo-3.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\refint\Capitulo-3.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\Capitulo-3.pdb
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\Capitulo-3.genruntimeconfig.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\Capitulo-3\obj\Debug\net9.0\ref\Capitulo-3.dll

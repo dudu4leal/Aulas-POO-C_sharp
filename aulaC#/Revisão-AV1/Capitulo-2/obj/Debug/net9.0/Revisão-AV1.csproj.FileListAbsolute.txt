@@ -1,0 +1,15 @@
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\Revisão-AV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\Revisão-AV1.AssemblyInfoInputs.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\Revisão-AV1.AssemblyInfo.cs
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\Revisão-AV1.csproj.CoreCompileInputs.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\Revisão-AV1.sourcelink.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\bin\Debug\net9.0\Revisão-AV1.exe
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\bin\Debug\net9.0\Revisão-AV1.deps.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\bin\Debug\net9.0\Revisão-AV1.runtimeconfig.json
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\bin\Debug\net9.0\Revisão-AV1.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\bin\Debug\net9.0\Revisão-AV1.pdb
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\Revisão-AV1.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\refint\Revisão-AV1.dll
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\Revisão-AV1.pdb
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\Revisão-AV1.genruntimeconfig.cache
+C:\Users\dudsl\Desktop\Aulas-POO-C_sharp\aulaC#\Revisão-AV1\obj\Debug\net9.0\ref\Revisão-AV1.dll
